@@ -1,18 +1,18 @@
 # FoodieApp Privacy Policy
-_Effective Date: 5th of May 2021_
+_Effective Date: 27th of September 2021_
 
 This privacy policy describes how we handle your data when you use FoodieApp (including the app and website). As part of our mission, your privacy matters a lot to us. By default, we do not collect any personal data from you. Where we collect personal data, we will do so with your consent, to provide you with value-adding features. In all cases, we keep your data anonymous, even to us.
 
 This privacy policy applies only to individuals using the FoodieApp. By accessing the FoodieApp and its services, you agree to our privacy practices described in this policy. 
 
-The types of data we collect and their uses
+## The types of data we collect and their uses
 Our mission is to keep your use of the FoodieApp private. We do not collect any data we do not need. We collect the following data when you access and use the FoodieApp: 
 
-## Meal description and associated metadata
+### Meal description and associated metadata
 In order to provide any value to you, we ask you to submit your meal description. Along with the description, we will collect the date and time it was made.The descriptions you provide are used to understand your eating habits and extract from it useful insights.
 
-### Geolocation (IP-based)
-When you use the FoodieApp, we will automatically obtain your approximate IP-based geolocation via Geo IP databases, which shows only your country. We will use this data to provide you with optimised food description recognition and better app performance.
+### Geo-location (IP-based)
+When you use the FoodieApp, we will automatically obtain your approximate IP-based geo-location via Geo IP databases, which shows only your country. We will use this data to provide you with optimised food description recognition and better app performance.
 
 
 ### Location
@@ -24,6 +24,9 @@ We want to improve the FoodieApp while you use it over time. We want to understa
 
 ## The data we do not collect
 We do not collect any data that can allow us to associate the data about the food you eat with who you are. We do not require you to submit your name, email address, age, home address, login credentials and other information website or app owners require users to submit when they create an account. 
+When unavoidable, we may receive your email address, full name and a profile 
+picture from identity providers. These data may be processed on your device or
+our server infrastructure, but are never stored or associated with your profile.
 
 Where you intend to pay for any premium features, we will not collect any payment method data nor process payments through the FoodieApp. Your payments will be handled privately through secure payment processors like Google Pay and Apple Pay. 
 
