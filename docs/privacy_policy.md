@@ -1,5 +1,5 @@
 # FoodieApp Privacy Policy
-_Effective Date: 27th of September 2021_
+_Effective Date: 28th of September 2021_
 
 This privacy policy describes how we handle your data when you use FoodieApp (including the app and website). As part of our mission, your privacy matters a lot to us. By default, we do not collect any personal data from you. Where we collect personal data, we will do so with your consent, to provide you with value-adding features. In all cases, we keep your data anonymous, even to us.
 
@@ -7,6 +7,20 @@ This privacy policy applies only to individuals using the FoodieApp. By accessin
 
 ## The types of data we collect and their uses
 Our mission is to keep your use of the FoodieApp private. We do not collect any data we do not need. We collect the following data when you access and use the FoodieApp: 
+
+### Authentication Subject Identifier
+
+To protect your data from unauthorised access, FoodieApp uses 3rd party identity providers. That way, we can confirm that you are indeed you, without knowing any
+of your personal data.
+
+For this mechanism to work, we must store the Subject Identifier, a random 
+string that is generated and managed by the identity provider.
+
+You can read more about the authentication technology we use here:
+- [OpenID Connect Core 1.0 incorporating errata set 1](https://openid.net/specs/openid-connect-core-1_0.html)
+- [Subject Identifier Types](https://openid.net/specs/openid-connect-core-1_0.html#SubjectIDTypes)
+- [Implementing User Authentication with Sign in with Apple](https://developer.apple.com/documentation/authenticationservices/implementing_user_authentication_with_sign_in_with_apple)
+- [One tap sign up and sign in for Android](https://developers.google.com/identity/one-tap/android)
 
 ### Meal description and associated metadata
 In order to provide any value to you, we ask you to submit your meal description. Along with the description, we will collect the date and time it was made.The descriptions you provide are used to understand your eating habits and extract from it useful insights.
