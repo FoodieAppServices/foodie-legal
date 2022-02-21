@@ -1,5 +1,5 @@
 # Terms of Service
-_Effective Date: 5th of May 2021_
+_Effective Date: 22nd of February 2022_
 
 ## Overview of Terms
 This Terms of Service (these “Terms”) is an agreement between you and us (see the section below for information about us). These Terms describe the terms and conditions under which we provide the FoodieApp and associated services to you.
@@ -9,7 +9,7 @@ You should review these Terms (along with the other documents on FoodieApp, incl
 As time goes on, we may review and update these Terms for various reasons, which may include changes to applicable laws or any of our FoodieApp features or services. Any changes to these Terms shall become effective upon us posting such changes, which will be reflected by changing the Effective Date above. Not to worry – we will notify you of any changes through a blog post on the FoodieApp, and you can also track the history of changes via GitHub or here. If you continue using the FoodieApp after we make any changes to these Terms, then we will imply that you have accepted the changes made.
 
 ## Information about us
-The FoodieApp and associated services are provided by the FOODIEAPP SERVICES, an Australian-based business with ABN 34 206 815 436. We provide the FoodieApp and associated services within Australia and other parts of the world – provided that you are eligible to use it without restrictions. If you encounter any restrictions while using the FoodieApp, you agree that we will not be responsible for any liabilities that come with such restrictions.
+The FoodieApp and associated services are provided by the FOODIEAPP SERVICES PTY LTD, an Australian-based business with ABN 98 657 431 484. We provide the FoodieApp and associated services within Australia and other parts of the world – provided that you are eligible to use it without restrictions. If you encounter any restrictions while using the FoodieApp, you agree that we will not be responsible for any liabilities that come with such restrictions.
 
 ## Our services do not replace professional advice
 The services that are provided through the FoodieApp, including the meal insight, recommendations, adverts, advice, blog posts and other information, are not intended to be used in place of visiting a doctor, nutritionist, dietitian or other specialists, and are not substitutes for professional medical advice. Any information provided through the FoodieApp is for educational purposes only and should not be construed as a substitute for medical advice. The FoodieApp should not be used as a diagnosis, cure, treatment or the prevention of any disease.
